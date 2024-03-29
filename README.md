@@ -1,6 +1,6 @@
 # DateMagic
 
-DateMagic is a JavaScript library that extends the functionality of the native Date object by adding a `format()` method, allowing you to format dates according to specified patterns.
+git remote add origin git@github.com:duxtec/data-magic
 
 ![Example](./example.png)
 
