@@ -5,7 +5,7 @@
   "description": "A JavaScript library extending the capabilities of the native Date object, offering advanced date formatting functionalities and multi-language support.",
   "main": "src/date-magic.js",
   "scripts": {
-    "publish:github": "git add . && git commit -m 'Publishing release' && git push origin master",
+    "publish:github": "git add . && git commit -m 'Publishing release' && git push origin main",
     "publish:npm": "npm publish"
   },
   "keywords": [
