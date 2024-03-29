@@ -1,0 +1,33 @@
+{
+  "name": "date-magic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A JavaScript library extending the capabilities of the native Date object, offering advanced date formatting functionalities and multi-language support.",
+  "main": "src/date-magic.js",
+  "scripts": {
+    "publish:github": "git add . && git commit -m 'Publishing release' && git push origin master",
+    "publish:npm": "npm publish"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "formatting",
+    "utility",
+    "javascript",
+    "library",
+    "date-format",
+    "date-manipulation",
+    "date-extension"
+  ],
+  "author": "Dux Tecnologia",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duxtec/date-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duxtec/dateext/issues"
+  },
+  "homepage": "https://github.com/duxtec/dateext#readme"
+}
